@@ -64,12 +64,6 @@ I also make small web apps and experiments, such as games, UI prototypes, and au
 * Typing games and learning tools
 * Event support systems
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HiroyukiGPU&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiroyukiGPU&layout=compact&theme=tokyonight)
-
 ## Links
 
 * Website: [keysyntax.com](https://keysyntax.com)
