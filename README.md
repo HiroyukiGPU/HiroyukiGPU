@@ -66,10 +66,9 @@ I also make small web apps and experiments, such as games, UI prototypes, and au
 
 ## GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=HiroyukiGPU&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiroyukiGPU&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HiroyukiGPU&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiroyukiGPU&layout=compact&theme=tokyonight)
 
 ## Links
 
