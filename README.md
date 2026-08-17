@@ -103,8 +103,6 @@ I regularly build small apps to experiment with new technologies, UI patterns, p
 
 ## Published Projects
 
-<details>
-<summary>View projects from my app database</summary>
 
 ### Web Apps
 
@@ -190,8 +188,6 @@ I regularly build small apps to experiment with new technologies, UI patterns, p
 
 - [Real-time JPY/USD Figma Plugin](https://www.figma.com/community/plugin/1627245008897106712)
 - [Music Sleep Timer Shortcut](https://www.icloud.com/shortcuts/bb2fa8596cac4ff4990e0feea466f85e)
-
-</details>
 
 ## Skills
 
