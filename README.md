@@ -1,3 +1,5 @@
+![HiroyukiGPU-gitartwork](HiroyukiGPU-gitartwork.svg)
+
 # Hi, I'm Hiroyuki
 
 I'm a student at Kamiyama Marugoto College, building web apps, tools, and interactive services.
